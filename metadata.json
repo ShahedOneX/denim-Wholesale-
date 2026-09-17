@@ -1,0 +1,7 @@
+{
+  "name": "Arif Fashion World CRM",
+  "description": "B2B Wholesale Denim CRM with autonomous reorder prediction, instant WhatsApp outreach, client ledgers, warehouse dispatch tagging, and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
